@@ -37,5 +37,6 @@ python test.py
 
 ## 🙏 Acknowledgements
 This project builds upon the excellent work of the following repositories:
-- [DiffUIR]([https://github.com/user/repo-name](https://github.com/iSEE-Laboratory/DiffUIR)): Selective Hourglass Mapping for Universal Image Restoration Based on Diffusion Model
+[DiffUIR]([https://github.com/user/repo-name](https://github.com/iSEE-Laboratory/DiffUIR)): Selective Hourglass Mapping for Universal Image Restoration Based on Diffusion Model.
+  
 We sincerely thank the authors for sharing their code and ideas.
