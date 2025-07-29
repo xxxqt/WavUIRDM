@@ -27,13 +27,10 @@ pip install tqdm
 ## Dataset
 Our dataset setup follows the same structure as [DiffUIR](https://github.com/iSEE-Laboratory/DiffUIR).
 
-## Train 
+## Train and Test 
 ```
 python train.py
 ```
-
-## Test and Calculate the Metric
-
 Notably, change the 'task' id  to your task, low-light enhancement for 'light_only', deblur for 'blur', dehaze for 'fog', derain for 'rain', desnow for 'snow' 
 ```
 python test.py
