@@ -1,5 +1,5 @@
-Official implementation of the paper:  
-**WavUIRDM: Wavelet-based Conditional Residual Denoising Diffusion Model for Universal Image Restoration**  
+##Official implementation of the paper:  
+##WavUIRDM: Wavelet-based Conditional Residual Denoising Diffusion Model for Universal Image Restoration  
 
 ## 🔗 Paper
 Coming soon...
