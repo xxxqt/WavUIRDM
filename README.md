@@ -1,6 +1,19 @@
 # 📄 WavUIRDM: Wavelet-based Conditional Residual Denoising Diffusion Model for Universal Image Restoration
 **Official PyTorch Implementation**
 
+<p align="center">
+  <img
+    src="https://https://github.com/xxxqt/WavUIRDM/blob/main/pipeline.png"
+    alt="pipeline"
+    width="800"
+  />
+</p>
+
+
+
+
+
+
 The first and preliminary version is realeased. Code may not be cleaned thoroughly.
 
 ## Environment
