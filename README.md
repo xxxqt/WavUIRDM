@@ -3,7 +3,7 @@
 
 <p align="center">
   <img
-    src="https://https://github.com/xxxqt/WavUIRDM/blob/main/pipeline.png"
+    src="https://raw.githubusercontent.com/xxxqt/WavUIRDM/main/pipeline.png"
     alt="pipeline"
     width="800"
   />
